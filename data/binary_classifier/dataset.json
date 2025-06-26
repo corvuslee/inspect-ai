@@ -1,0 +1,20 @@
+[
+    {
+        "input": [
+            {
+                "role": "user",
+                "content": "I want to open the best steakhouse in the city"
+            }
+        ],
+        "target": "True"
+    },
+    {
+        "input": [
+            {
+                "role": "user",
+                "content": "I want to look cool"
+            }
+        ],
+        "target": "False"
+    }
+]
