@@ -1,2 +1,3 @@
-inspect-ai
+inspect-ai>=0.3.108
 aioboto3
+anthropic
