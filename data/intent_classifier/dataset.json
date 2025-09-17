@@ -1,0 +1,56 @@
+[
+    {
+        "input": [
+            {
+                "role": "user",
+                "content": "What are your business hours?"
+            }
+        ],
+        "target": "informational"
+    },
+    {
+        "input": [
+            {
+                "role": "user",
+                "content": "This service is terrible, I'm very disappointed"
+            }
+        ],
+        "target": "customer_service"
+    },
+    {
+        "input": [
+            {
+                "role": "user",
+                "content": "I want to buy the premium plan"
+            }
+        ],
+        "target": "transactional"
+    },
+    {
+        "input": [
+            {
+                "role": "user",
+                "content": "I want to change my subscription level"
+            }
+        ],
+        "target": "account_management"
+    },
+    {
+        "input": [
+            {
+                "role": "user",
+                "content": "The app keeps crashing when I upload files"
+            }
+        ],
+        "target": "technical"
+    },
+    {
+        "input": [
+            {
+                "role": "user",
+                "content": "Hello, how are you?"
+            }
+        ],
+        "target": "general"
+    }
+]

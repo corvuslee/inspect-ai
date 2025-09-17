@@ -1,3 +1,6 @@
+# Mac
+.DS_Store
+
 # Inspect eval logs
 logs/
 
