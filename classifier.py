@@ -58,6 +58,6 @@ def format_output():
 if __name__ == "__main__":
     eval(
         binary_classifier(),
-        model="anthropic/bedrock/anthropic.claude-3-7-sonnet-20250219-v1:0",
-        reasoning_tokens=1024,
+        model="openai-api/bedrock/openai.gpt-oss-20b-1:0",
+        reasoning_effort="low"
     )
